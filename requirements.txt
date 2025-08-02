@@ -3,5 +3,8 @@ opencv-python-headless
 numpy
 roboflow
 ultralytics
+streamlit-webrtc
+av
+
 
 
